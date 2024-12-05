@@ -3,13 +3,14 @@
 # progamação morientada a objetos - POO
 
 # objeto?
+# uma variavel que carrega as caracteristicas de uma classe
 # quando usa-se uma classe para definir caracteristicas
 
 # Exemplo:
 class pessoa: 
-    nome: str 
-    idade: int  
-    peso: float
+    nome: str # atributo nome
+    idade: int  # atributo idade
+    peso: float # atributo peso
 # Exemplo de forma de uso.
 
 variavel = pessoa()
